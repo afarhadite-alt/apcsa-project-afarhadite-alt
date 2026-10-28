@@ -1,6 +1,6 @@
-# [Project Name]
+# Fitness App
 ## The problem
-[2–3 sentences. What's annoying or hard right now? Who has this problem?]
+I need a place to record my workouts. Right now, its hard to find that section or have a consistent app that keeps everything.
 ## The user
 [Who specifically uses this? "Me" is a valid answer if you're honest about it.]
 ## What it does
